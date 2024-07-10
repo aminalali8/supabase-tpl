@@ -1,0 +1,5 @@
+# Bunnyshell YAML Configuration
+kind: Environment
+name: supabase
+type: primary
+# Add your configuration here
